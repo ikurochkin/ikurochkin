@@ -1,12 +1,12 @@
 ### Hi there, I'm Igor! 👋
 
-I am researcher and consultant at [Enabling team][enablingteam].
+I'm a researcher and consultant at [Enabling team][enablingteam].
 
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikurochkin&count_private=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true&theme=buefy" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikurochkin&count_private=true&show_icons=true&theme=buefy" />
 </p>
 
 ### Connect with me
