@@ -1,8 +1,8 @@
 ### Hi there, I'm Igor! 👋
 
-I am researcher and consultant at [Enabling team][enablingteam].
+I am researcher and consultant at [Enabling team][enablingteam]
 
-💬 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues)
+Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues)<br />
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
