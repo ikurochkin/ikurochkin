@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Igor! 👋
+
+💬 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikurochkin&count_private=true&show_icons=true" />
+</p>
 
 <!--
 **ikurochkin/ikurochkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
