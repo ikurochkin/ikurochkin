@@ -2,6 +2,8 @@
 
 I'm a researcher and consultant at [Enabling team][enablingteam].
 
+[My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md)
+
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
 <p align="center">
