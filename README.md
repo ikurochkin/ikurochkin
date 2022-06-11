@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor! 👋
 
-I'm a researcher and consultant at [Enabling team][enablingteam].
+I'm a researcher and consultant at [Enabling.team][website].
 
 [My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md).
 
@@ -20,7 +20,6 @@ Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 ![](https://komarev.com/ghpvc/?username=ikurochkin)
 ![](https://hit.yhype.me/github/profile?user_id=330798)
 
-[enablingteam]: https://enabling.team
 [website]: https://enabling.team
 [twitter]: https://twitter.com/IgorKurochkin
 [linkedin]: https://linkedin.com/in/ikurochkin
