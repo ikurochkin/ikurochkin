@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor! 👋
 
-I'm a researcher and consultant at [Enabling.team][website].
+I'm a Tech consultant at [Enabling.team][website].
 
 [My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md).
 
