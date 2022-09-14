@@ -1,8 +1,10 @@
 ### Hi there, I'm Igor! 👋
 
-I'm a Tech consultant at [Enabling.team][website].
+I'm a Tech consultant and CTO at [Enabling.team][website]. 
 
-[My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md).
+ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
+
+[My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md) about #devops, #orgdesign, #platformengineering, #developerexperience.
 
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
