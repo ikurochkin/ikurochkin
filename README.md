@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor! 👋
 
-I'm a Tech consultant and CTO at [Enabling.team][website]. 
+I'm a Tech consultant and CTO at [Enabling.team][website]. Follow me to see interesting Tech projects in your feed!
 
 ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
 
