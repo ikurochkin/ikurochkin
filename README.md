@@ -4,7 +4,7 @@ I'm a Technology expert and consultant at [Enabling.team][website]. Follow me to
 
 ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
 
-[My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md) about #devops, #orgdesign, #platformengineering, #developerexperience.
+[My public talks](https://github.com/ikurochkin/public-talks/blob/main/README.md) about #devops, #teamtopologies, #platformengineering, #developerexperience.
 
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
