@@ -8,8 +8,6 @@ ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
 
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
-![Metrics](https://metrics.lecoq.io/ikurochkin?template=classic&repositories.batch=100&base.header=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=28&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FMoscow)
-
 ### Connect with me
 
 [<img align="left" alt="enabling.team" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -22,3 +20,7 @@ Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 [website]: https://enabling.team
 [twitter]: https://twitter.com/IgorKurochkin
 [linkedin]: https://linkedin.com/in/ikurochkin
+
+### Metrics
+![Metrics](https://metrics.lecoq.io/ikurochkin?template=classic&repositories.batch=100&base.header=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=28&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FMoscow)
+
