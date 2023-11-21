@@ -8,9 +8,7 @@ ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
 
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
-</p>
+![Metrics](https://metrics.lecoq.io/ikurochkin?template=classic&repositories.batch=100&base.header=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow)
 
 ### Connect with me
 
