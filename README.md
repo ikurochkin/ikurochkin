@@ -22,4 +22,4 @@ Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 ![](https://komarev.com/ghpvc/?username=ikurochkin)
 ![](https://hit.yhype.me/github/profile?user_id=330798)
 
-![Metrics](https://metrics.lecoq.io/ikurochkin?template=classic&repositories.batch=100&base.header=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=28&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FMoscow)
+![Metrics](https://metrics.lecoq.io/ikurochkin?template=classic&repositories.batch=100&base.header=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=28&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Europe%2FMoscow)
