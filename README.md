@@ -10,9 +10,8 @@ Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikurochkin&count_private=true&show_icons=true" />
+  <img src="https://streak-stats.demolab.com/?user=ikurochkin&count_private=true&show_icons=true" />
 </p>
-
 
 ### Connect with me
 
