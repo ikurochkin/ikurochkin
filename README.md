@@ -23,5 +23,5 @@ Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 ![](https://hit.yhype.me/github/profile?user_id=330798)
 
 [website]: https://enabling.team
-[twitter]: https://twitter.com/IgorKurochkin
+[twitter]: https://x.com/IgorKurochkin
 [linkedin]: https://linkedin.com/in/ikurochkin
