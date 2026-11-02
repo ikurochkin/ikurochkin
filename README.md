@@ -9,7 +9,7 @@ ex-Express42, ex-Microsoft, ex-Skype, ex-Qik, ex-Scalaxy
 Ask me about anything [here](https://github.com/ikurochkin/ikurochkin/issues).
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ikurochkin&count_private=true&show_icons=true" />
   <img src="https://streak-stats.demolab.com?user=ikurochkin" />
 </p>
 
